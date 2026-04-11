@@ -1,0 +1,7 @@
+E:\Repository\C#\1_Basic C.sharp\1_Basic C.sharp\bin\Debug\1_Basic C.sharp.exe.config
+E:\Repository\C#\1_Basic C.sharp\1_Basic C.sharp\bin\Debug\1_Basic C.sharp.exe
+E:\Repository\C#\1_Basic C.sharp\1_Basic C.sharp\bin\Debug\1_Basic C.sharp.pdb
+E:\Repository\C#\1_Basic C.sharp\1_Basic C.sharp\obj\Debug\1_Basic C.sharp.csprojResolveAssemblyReference.cache
+E:\Repository\C#\1_Basic C.sharp\1_Basic C.sharp\obj\Debug\1_Basic C.sharp.csproj.CoreCompileInputs.cache
+E:\Repository\C#\1_Basic C.sharp\1_Basic C.sharp\obj\Debug\1_Basic C.sharp.exe
+E:\Repository\C#\1_Basic C.sharp\1_Basic C.sharp\obj\Debug\1_Basic C.sharp.pdb
