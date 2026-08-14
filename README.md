@@ -55,7 +55,7 @@ dotnet run --project factorial
 
 ## Related repositories
 
-- [`informatics_villagreppi`](https://github.com/alessiomartini/informatics_villagreppi)
+- [`highschool-programming-archive`](https://github.com/alessiomartini/highschool-programming-archive)
   — the Python and web programming from the same period.
-- [`informatics_unimib`](https://github.com/alessiomartini/informatics_unimib)
+- [`intro-to-c-programming-unimib`](https://github.com/alessiomartini/intro-to-c-programming-unimib)
   — the university C course that came after.
